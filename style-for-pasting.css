@@ -1,0 +1,76 @@
+:root {
+  --button: #6B65A4;
+  --button-text: #FFFFFF;
+  --button-hover: #B0ADD2;
+}
+
+.image {
+  text-align: center;
+}
+
+.gallery {
+    columns:3;
+}
+
+.galleryitem {
+    margin:5px;
+    text-align:center;
+}
+
+.controls {
+  width: 100%;
+  margin-top: 16px;
+  text-align:center;
+}
+
+.button {
+  background: var(--button);
+  border: 0;
+  padding: 10px;
+  border-radius: 5px;
+  color: var(--button-text);
+  text-decoration:none;
+  margin:.2em;
+  display:inline-block;
+}
+
+.button:hover {
+  background: var(--button-hover);
+}
+
+.pagination {
+  text-align:center;
+  margin:.25em;
+}
+
+.pagination ul {
+  list-style:none;  
+  margin:0;
+}
+
+.pagination li {
+  display:inline-block;
+}
+
+.pagination li a {
+  display:inline-block;
+  padding:5px;
+  margin:0.1em;
+  background:var(--button);
+  color: var(--button-text);
+  border-radius:2px;
+  text-decoration:none;
+}
+
+.pagination li.active {
+  background:none;
+  padding:5px;
+  margin:0.1em;
+  display:inline-block;
+}
+
+@media screen and (max-width:600px) {
+    .gallery {
+        columns:1;
+    }
+}

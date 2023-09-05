@@ -4,7 +4,7 @@ const { performance } = require("perf_hooks");
 
 let t0 = performance.now();
 
-const imagesToPage = 3;
+const imagesToPage = 10;
 
 console.log("starting generator...");
 
