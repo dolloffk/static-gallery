@@ -1,6 +1,6 @@
 # Static accessible gallery generator
 
-This is a fork of J Sanderson's gallery generator. It produces a static version of my PHP gallery framework by making pages for each image with the image description on it, then chucking all the images into a main gallery view with alt text. There are some other accessibility features as well. Hooray!
+This is a fork of J Sanderson's gallery generator. It produces a static accessible image gallery by making pages for each image with the image description on it, then chucking all the images into a main gallery view with alt text. There are some other accessibility features as well. Hooray!
 
 Everything you need to mess with is in the input folder. You can also change the number of images per page by editing this line in the gen.js file. There are 10 images per page by default.
 
