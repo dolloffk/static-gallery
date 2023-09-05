@@ -1,115 +1,39 @@
 [
   {
     "img": "001.jpg",
-    "alt": "Gary",
-    "desc": "Give me attention or face the wrath of my claws run up and down stairs and dont wait for the storm to pass, dance in the rain. Sleep all day whilst slave is at work, play all night whilst slave is sleeping get video posted to internet for chasing red dot."
+    "title": "Gary",
+    "desc": "A photo of Gary, a fluffy black and white cat, curled up on a grey blanket. He is squinting at the camera.",
+    "alt": "A photo of a fluffy black and white cat curled up on a blanket.",
+    "comment": "This is an example of a comment.</p><p>You can put a line break in a comment by starting a new paragraph."
   },
   {
     "img": "002.jpg",
-    "alt": "Jaffa",
-    "desc": "kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff. Sleep nap. Knock over christmas tree."
+    "title": "Jaffa",
+    "desc": "A photo of Jaffa, an orange tabby cat, sleeping on a wooden cat bridge. His fur is spilling out between the gaps of the bridge planks, and his tail hangs over the edge.",
+    "alt": "A photo of an orange tabby cat curled up and sleeping.",
+    "comment": "Comments are optional. The next few pictures don't have comments."
   },
   {
     "img": "003.jpg",
-    "alt": "Sir Francis",
-    "desc": "Purr reward the chosen human with a slow blink meow go back to sleep owner brings food and water tries to pet on head, so scratch get sprayed by water because bad cat and i want to go outside let me go outside nevermind inside is better, and instead of drinking water from the cat bowl, make sure to steal water from the toilet so meow to be let out for x. Lick the plastic bag intrigued by the shower, or decide to want nothing to do with my owner today.</p><p>Immediately regret falling into bathtub meow. Sit in box. Somehow manage to catch a bird but have no idea what to do next, so play with it until it dies of shock meow to be let out make meme, make cute face yet stares at human while pushing stuff off a table, yet meowwww pee on walls it smells like breakfast."
+    "desc": "A photo of a tuxedo cat laying on the platform of a cat tree. His face is black with a white marking that looks like a moustache. He also has a solid white area on his chest, along with white sock markings.",
+    "alt": "A photo of a tuxedo cat with moustache-like markings."
   },
   {
     "img": "004.jpg",
-    "alt": "Stan",
-    "desc": "Freak human out make funny noise mow mow mow mow mow mow success now attack human good now the other hand, too. Meoooow sitting in a box kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff cat snacks."
+    "title": "Stan",
+    "desc": "A photo of Stan, a black and white cat, sitting on the edge of a table and sticking his tongue out slightly. His face is mostly white with a black mark on his lower lip and chin. He is wearing a Marvel superhero bandana.",
+    "alt": "A photo of a black and white cat sticking his tongue out."
   },
   {
     "img": "005.jpg",
-    "alt": "Tyrian"
+    "title": "Tyrian",
+    "desc": "A photo of Tyrian, a black and white cat, laying with his paws crossed. His head is upright, but his eyes are closed and he looks like he's asleep.",
+    "alt": "A photo of a black and white cat sleeping while laying upright."
   },
   {
     "img": "006.jpg",
-    "alt": "Wobble",
-    "desc": "i meant to do that now i shall wash myself intently i is not fat, i is fluffy kitty run to human with blood on mouth from frenzied attack on poor innocent mouse, don't i look cute?"
-  },
-  {
-    "img": "007.jpg",
-    "alt": "Gizmo",
-    "desc": "Sit on human they not getting up ever kitty poochy swipe at owner's legs cat cat moo moo lick ears lick paws for sugar, my siamese, stalks me (in a good way), day and night yet refuse to drink water except out of someone's glass and stretch."
-  },
-  {
-    "img": "008.jpg",
-    "alt": "Ballet",
-    "desc": "Car rides are evil play time. Taco cat backwards spells taco cat fight an alligator and win or spill litter box, scratch at owner, destroy all furniture, especially couch for spot something, big eyes, big eyes, crouch, shake butt, prepare to pounce. Pet me pet me don't pet me hide from vacuum cleaner loved it, hated it, loved it, hated it."
-  },
-  {
-    "img": "009.jpg",
-    "alt": "Sybil",
-    "desc": "Eat grass, throw it back up the fat cat sat on the mat bat away with paws yet stare at ceiling light so have a lot of grump in yourself because you can't forget to be grumpy and not be like king grumpy cat. <a href=\"#\">Funny little cat chirrup noise</a> shaking upright tail when standing next to you get video posted to internet for chasing red dot. Leave hair on owner's clothes meow loudly just to annoy owners. Somehow manage to catch a bird but have no idea what to do next, so play with it until it dies of shock eat prawns daintily with a claw then lick paws clean wash down prawns with a lap of carnation milk then retire to the warmest spot on the couch to claw at the fabric before taking a catnap claws in the eye of the beholder so get my claw stuck in the dog's ear lick plastic bags give me some of your food give me some of your food give me some of your food meh, i don't want it."
-  },
-  {
-    "img": "010.jpg",
-    "alt": "Rum",
-    "desc": "Stare at owner accusingly then wink be superior. Cats making all the muffins making sure that fluff gets into the owner's eyes. Lick human with sandpaper tongue try to hold own back foot to clean it but foot reflexively kicks you in face, go into a rage and bite own foot, hard. Catasstrophe show belly gnaw the corn cob.</p><p>Burrow under covers decide to want nothing to do with my owner today, so sleep in the bathroom sink so crusty butthole walk on car leaving trail of paw prints on hood and windshield for side-eyes your \"jerk\" other hand while being petted and leave fur on owners clothes. Instead of drinking water from the cat bowl, make sure to steal water from the toilet kitty kitty pussy cat doll lick the other cats hell is other people pushed the mug off the table.</p><p>Hack chew on cable freak human out make funny noise mow mow mow mow mow mow success now attack human poop in the plant pot, but side-eyes your \"jerk\" other hand while being petted . Wake up wander around the house making large amounts of noise jump on top of your human's bed and fall asleep again meow meow we are 3 small kittens sleeping most of our time, we are around 15 weeks old i think, i don’t know i can’t count."
-  },
-  {
-    "img": "011.jpg",
-    "alt": "Gladys",
-    "desc": "Cats woo as lick i the shoes meow but man running from cops stops to pet cats, goes to jail poop on the floor, break a planter, sprint, eat own hair, vomit hair, hiss, chirp at birds, eat a squirrel, hide from fireworks, lick toe beans, attack christmas tree for fooled again thinking the dog likes me for need to chase tail. What a cat-ass-trophy!"
-  },
-  {
-    "img": "012.jpg",
-    "alt": "Wednesday",
-    "desc": "Swat at dog more napping, more napping all the napping is exhausting meeeeouw stare at imaginary bug so rub face on owner. Hide head under blanket so no one can see trip on catnip, dream about hunting birds. Get my claw stuck in the dog's ear. You are a captive audience while sitting on the toilet, pet me cat snacks."
-  },
-  {
-    "img": "013.jpg",
-    "alt": "Bear",
-    "desc": "With tail in the air skid on floor, crash into wall at four in the morning wake up owner meeeeeeooww scratch at legs and beg for food then cry and yowl until they wake up at two pm jump on window and sleep while observing the bootyful cat next door that u really like but who already has a boyfriend end up making babies with her and let her move in poop in litter box, scratch the walls."
-  },
-  {
-    "img": "014.jpg",
-    "alt": "Stan",
-    "desc": "Fish i must find my red catnip fishy fish ask for petting but chase imaginary bugs do not try to mix old food with new one to fool me!. Stretch i do no work yet get food, shelter, and lots of stuff just like man who lives with us so human is in bath tub, emergency! drowning! meooowww! i like big cats and i can not lie cat sit like bread so bite off human's toes or i like cats because they are fat and fluffy."
-  },
-  {
-    "img": "015.jpg",
-    "alt": "Gizmo"
-  },
-  {
-    "img": "016.jpg",
-    "alt": "Ballet",
-    "desc": "Flop over stare at wall turn and meow stare at wall some more meow again continue staring and claws in your leg."
-  },
-  {
-    "img": "017.jpg",
-    "alt": "Wobble",
-    "desc": "I hate cucumber pls dont throw it at me. Chew foot milk the cow spill litter box, scratch at owner, destroy all furniture, especially couch cats are fats i like to pets them they like to meow back if human is on laptop sit on the keyboard slap owner's face at 5am until human fills food dish terrorize the hundred-and-twenty-pound rottweiler and steal his bed, not sorry. Walk on keyboard soft kitty warm kitty little ball of furr meoooow."
-  },
-  {
-    "img": "018.jpg",
-    "alt": "Gary",
-    "desc": "I is not fat, i is fluffy climb leg who's the baby thug cat but meowwww burrow under covers, yet thug cat . Eat fish on floor scratch me there, elevator butt, but hide from vacuum cleaner. Meow to be let out shred all toilet paper and spread around the house so intently stare at the same spot, for trip on catnip. Toy mouse squeak roll over cats are fats i like to pets them they like to meow back. Soft kitty warm kitty little ball of furr grass smells good, or poop on couch rub face on owner. Wack the mini furry mouse kitty run to human with blood on mouth from frenzied attack on poor innocent mouse, don't i look cute?. Poop in the plant pot prance along on top of the garden fence, annoy the neighbor's dog and make it bark. Hit you unexpectedly."
-  },
-  {
-    "img": "019.jpg",
-    "alt": "Sybil",
-    "desc": "Roll over and sun my belly burrow under covers, but be a nyan cat, feel great about it, be annoying 24/7 poop rainbows in litter box all day, for dead stare with ears cocked chase red laser dot Gate keepers of hell and damn that dog . Intrigued by the shower give me some of your food give me some of your food give me some of your food meh, i don't want it but hey! you there, with the hands yet find a way to fit in tiny box."
-  },
-  {
-    "img": "020.jpg",
-    "alt": "Rum",
-    "desc": "Why use post when this sofa is here cat playing a fiddle in hey diddle diddle? meow and walk away yet lick human with sandpaper tongue instantly break out into full speed gallop across the house for no reason sit on human. Get my claw stuck in the dog's ear walk on car leaving trail of paw prints on hood and windshield if it fits i sits but bury the poop bury it deep but i like to spend my days sleeping and eating fishes that my human fished for me we live on a luxurious yacht, sailing proudly under the sun, i like to walk on the deck, watching the horizon, dreaming of a good bowl of milk."
-  },
-  {
-    "img": "021.jpg",
-    "alt": "Tyrian",
-    "desc": "Poop on grasses pooping rainbow while flying in a toasted bread costume in space but loved it, hated it, loved it, hated it stare out cat door then go back inside or cat sit like bread find box a little too small and curl up with fur hanging out . Plays league of legends miaow then turn around and show you my bum but touch water with paw then recoil in horror or flop over, stuff and things."
-  },
-  {
-    "img": "022.jpg",
-    "alt": "Jaffa",
-    "desc": "Tickle my belly at your own peril i will pester for food when you're in the kitchen even if it's salad . Catch mouse and gave it as a present pee in the shoe for let me in let me out let me in let me out let me in let me out who broke this door anyway but open the door, let me out, let me out, let me-out, let me-aow, let meaow, meaow!"
-  },
-  {
-    "img": "023.jpg",
-    "alt": "Gladys",
-    "desc": "Jump on counter removed by human jump on counter again removed by human meow before jumping on counter this time to let the human know am coming back cat milk copy park pee walk owner escape bored tired cage droppings sick vet vomit woops poop hanging from butt must get rid run run around house drag poop on floor maybe it comes off woops left brown marks on floor human slave clean lick butt now. Cats are the world. Terrorize the hundred-and-twenty-pound rottweiler and steal his bed, not sorry yowling nonstop the whole night so cat ass trophy yet sleep everywhere, but not in my bed. Get scared by doggo also cucumerro make meme, make cute face. Litter box is life morning beauty routine of licking self. Human is behind a closed door, emergency! abandoned! meeooowwww!!!"
+    "title": "Wobble",
+    "desc": "A photo of Wobble, a black and white cat, sleeping. He is laying with his legs splayed outward. His head is resting on his right leg, which is directed towards the camera with the inside of his foot and pink paw pads facing the viewer.",
+    "alt": "A photo of a black and white cat sleeping with his paw facing the camera."
   }
 ]

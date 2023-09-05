@@ -1,1 +1,1 @@
-Your images will be placed here.
+Output images will go here.

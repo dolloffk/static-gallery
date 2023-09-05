@@ -1,151 +1,134 @@
 :root {
-  --background: #f0e6cb;
-  --descblock: #fcf9f1;
-  --text: #0e0800;
-  --header-footer: #bea36c;
-  --link: #0a74ae;
-  --header-link: #1f334b;
+  --text: #000000;
+  --link: #3D377F;
+  --background: #FFF3CA;
+  --box: #ECD584;
+  --button: #6B65A4;
+  --button-text: #FFFFFF;
+  --button-hover: #B0ADD2;
 }
 
-html, body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
-}
+* { margin:0; padding:0; }
 
 body {
-  background-color: var(--background);
-  color: var(--text);
   font-family: sans-serif;
-  display: flex;
-  flex-direction: column;
+  background: var(--background);
+  color: var(--text);
+}
+
+button, #image-list-ol li {
+  cursor: pointer;
+}
+
+header {
+  text-align: center;
+  font-size:2.5em;
+  font-weight:bold;
+}
+
+header ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+header ul li {
+  display: inline-block;
 }
 
 a {
   color: var(--link);
 }
 
-header {
-  background-color: var(--header-footer);
-  border-bottom: 1px solid;
-  text-align: center;
+img {
+	max-width: 100%;
+	height: auto;
+	width: auto\9; /* ie8 */
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: var(--button);
+}
+
+main {
+  max-width: 700px; /* adjust depending on image size */
+  margin: auto;
+  background: var(--box);
   padding: 15px;
 }
 
-header h1 {
-  margin: 0;
+h2 {
+  margin-top: 5px;
 }
 
-/* main gallery page */
-
-.details {
-  text-align: center;
-  background-color: var(--descblock);
-  border: 1px solid var(--text);
-  width: 90%;
-  margin: 20px auto;
-  padding: 0 15px;
-}
-
-.all-images {
-  width: 80%;
-  margin: 0 auto;
+.image {
   text-align: center;
 }
 
-.all-images a {
-  text-decoration: none;
+.gallery {
+    columns:3;
 }
 
-.lone-img {
-  margin: 20px;
+.galleryitem {
+    margin:5px;
+    text-align:center;
 }
 
-.img-container {
-  text-align: left;
-  border: 1px solid var(--text);
-  background-color: var(--descblock);
-  display: flex;
-  align-items: flex-start;
-  flex-direction: row;
-  margin: 20px auto;
+.controls {
+  width: 100%;
+  margin-top: 16px;
+  text-align:center;
 }
 
-.img-container a {
-  text-decoration: underline;
+.button {
+  background: var(--button);
+  border: 0;
+  padding: 10px;
+  border-radius: 5px;
+  color: var(--button-text);
+  text-decoration:none;
+  margin:.2em;
+  display:inline-block;
 }
 
-.thumb-container img {
-  display: block;
-}
-
-.description {
-  padding: 0 15px;
-  font-size: small;
-  border: 0 0 0 1px solid var(--text);
-  align-self: stretch;
-}
-
-.description p {
-  margin: 10px 0;
+.button:hover {
+  background: var(--button-hover);
 }
 
 .pagination {
-  max-width: 500px;
-  border: 1px solid var(--text);
-  background-color: var(--descblock);
-  margin: auto;
+  text-align:center;
+  margin:.25em;
 }
 
 .pagination ul {
-  list-style-type: none;
-  padding: 0;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
+  list-style:none;  
+  margin:0;
 }
 
-.pagination ul li {
-  margin: 0 10px;
+.pagination li {
+  display:inline-block;
 }
 
-footer {
-  font-size: small;
-  background-color: var(--header-footer);
-  border-top: 1px solid var(--text);
-  margin-top: 20px;
-  padding: 10px;
+.pagination li a {
+  display:inline-block;
+  padding:5px;
+  margin:0.1em;
+  background:var(--button);
+  color: var(--button-text);
+  border-radius:2px;
+  text-decoration:none;
 }
 
-/* individual image page */
-
-.image-details {
-  text-align: center;
-  background-color: var(--descblock);
-  border: 1px solid var(--text);
-  width: 90%;
-  margin: 20px auto;
-  padding: 15px;
+.pagination li.active {
+  background:none;
+  padding:5px;
+  margin:0.1em;
+  display:inline-block;
 }
 
-.image-details img {
-  max-width: 100%;
-  height: auto;
-  width: auto\9; /* ie8 */
-}
-
-/* small screens */
-
-@media only screen and (max-width: 600px) {
-  .img-container {
-    flex-direction: column;
-    width: 90%;
-  }
-  .thumb-container {
-    align-self: stretch;
-    border-bottom: 1px solid var(--text);
-  }
-  .thumb-container img {
-    margin: auto;
-  }
+@media screen and (max-width:600px) {
+    .gallery {
+        columns:1;
+    }
 }
