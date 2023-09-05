@@ -19,8 +19,8 @@ Populate input/images.json with the required files. There are already some in th
 
 Templates are in the input folder.
 
-- template-index.html is the template for the gallery view. <!-- PAGINATION --> and <!-- GALLERY --> tell the script where to put the pagination and images, so don't delete them!
-- template-page.html is the template for individual image pages. <!-- IMAGE --> is where the image and its data will go (no need to enclose in its own container).  <!-- PREVIOUS -->, <!-- NEXT -->, and <!-- BACK TO GALLERY --> are where the navigation links will go. Don't remove those!
+- template-index.html is the template for the gallery view. &lt;!-- PAGINATION --&gt; and &lt;!-- GALLERY --&gt; tell the script where to put the pagination and images, so don't delete them!
+- template-page.html is the template for individual image pages. &lt;!-- IMAGE --&gt; is where the image and its data will go (no need to enclose in its own container).  &lt;!-- PREVIOUS --&gt;, &lt;!-- NEXT --&gt;, and &lt;!-- BACK TO GALLERY --&gt; are where the navigation links will go. Don't remove those!
 
 This will also work with SSI (server side includes), provided you have it enabled for HTML files. 
 
